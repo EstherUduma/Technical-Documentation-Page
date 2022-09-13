@@ -1,7 +1,7 @@
 <h1>Technical Documentation Page</h1>
 
 <h2>Description</h2>
-This project happens to be my second landing page project. It's a landing page for a Paid finance guide website that enables clients get finance advice for a fee. This happens to be the first time i got to use svgs. I actually prefer them to images because of their flexibility. At the time i created this, it was a big deal for me. Lol.
+This is one of the required projects to earn my Responsive Web Design certification from freeCodeCamp. For this project, I built a technical documentation page to serve as instruction or reference for a topic.
 <br />
 
 
@@ -13,3 +13,10 @@ This project happens to be my second landing page project. It's a landing page f
 <h2>Environments Used </h2>
 
 - <b>Visual Studio Code</b>
+
+<h2>Site Outlook:</h2>
+
+<p align="center">
+<br/>
+<img src="https://user-images.githubusercontent.com/73527320/189916703-f872ca62-dbf4-4854-984c-cd42772859c0.png" height="80%" width="80%" alt="Freebie Landing Page 1"/>
+</P>
