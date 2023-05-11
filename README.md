@@ -5,7 +5,7 @@ This is one of the required projects to earn my Responsive Web Design certificat
 <br />
 
 <h2>Hosted Page Link</h2>
-https://technical-documentation-page.esther-annann.repl.co
+https://estheruduma.github.io/Technical-Documentation-Page/
 
 <h2>Languages and Utilities Used</h2>
 
